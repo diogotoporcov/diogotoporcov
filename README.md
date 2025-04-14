@@ -13,7 +13,7 @@ public class Main {
             .setEducation(
 	            Status.STUDYING,
 	            "Systems Analysis and Development", 
-	            "Instituto Federal de São Paulo"
+	            "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo"
             )
             .build();
 
