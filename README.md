@@ -14,7 +14,7 @@ public class Main {
 	            Status.STUDYING,
 	            "Systems Analysis and Development", 
 	            "Instituto Federal de São Paulo"
-	        )
+            )
             .build();
 
         diogo.helloWorld();
