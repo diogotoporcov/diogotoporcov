@@ -22,7 +22,7 @@ public class Main {
 }
 ```
 
-```cmd
+```bash
 C:\diogotoporcov> java Main
 Hello, World! I am still setting up my github page.
 ```
