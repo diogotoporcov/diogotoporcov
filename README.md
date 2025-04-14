@@ -1,16 +1,29 @@
-## Hi there 👋
+```java
+import world.Brazil.Cities.SaoPaulo.Person;
+import education.Status.Status;
+import java.util.List;
 
-<!--
-**diogotoporcov/diogotoporcov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+public class Main {
+    public static void main(String[] args) {
+        Person diogo = new Person.Builder()
+            .setName("Diogo Toporcov")
+            .setEmail("diogotoporcov@gmail.com")
+            .setAge(21)
+            .setLanguages(List.of("Java", "Python"))
+            .setEducation(
+	            Status.STUDYING,
+	            "Systems Analysis and Development", 
+	            "Instituto Federal de São Paulo"
+	        )
+            .build();
 
-Here are some ideas to get you started:
+        diogo.helloWorld();
+    }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```cmd
+C:\diogotoporcov> java Main
+Hello, World! I am still setting up my github page.
+```
+
