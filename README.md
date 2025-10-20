@@ -10,8 +10,6 @@
   </p>
 </div>
 
----
-
 <div align="center">
   <h1>Tech Stack:</h1>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python logo badge" />
@@ -60,8 +58,6 @@
   <img src="https://img.shields.io/badge/CUDA-000000.svg?style=flat&logo=nVIDIA&logoColor=green" alt="CUDA logo badge" />
   <img src="https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white" alt="NVIDIA logo badge" />
 </div>
-
----
 
 <div align="center">
   <h1>GitHub  Stats:</h1>
