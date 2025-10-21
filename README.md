@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL logo badge" />
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite logo badge" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB logo badge" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle logo badge" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white" alt="SQLAlchemy logo badge" />
   <img src="https://img.shields.io/badge/Sequelize-3B5998?style=flat&logo=sequelize&logoColor=white" alt="Sequelize logo badge" />
   <img src="https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34" alt="Firebase logo badge" />
@@ -44,7 +43,13 @@
 
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker logo badge" />
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes logo badge" />
+  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white" alt="Apache logo badge" />
   <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" alt="Nginx logo badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux logo badge" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu logo badge" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare logo badge" />
+  <img src="https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat&logo=letsencrypt&logoColor=white" alt="Let's Encrypt logo badge" />
+
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions logo badge" />
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud logo badge" />
 
