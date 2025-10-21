@@ -10,7 +10,7 @@
   </p>
 </div>
 
-<div align="justify">
+<div align="center">
   <h1>Tech Stack:</h1>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python logo badge" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java logo badge" />
