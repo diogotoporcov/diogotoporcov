@@ -32,9 +32,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL logo badge" />
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite logo badge" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB logo badge" />
+  <img src="https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34" alt="Firebase logo badge" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white" alt="SQLAlchemy logo badge" />
   <img src="https://img.shields.io/badge/Sequelize-3B5998?style=flat&logo=sequelize&logoColor=white" alt="Sequelize logo badge" />
-  <img src="https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34" alt="Firebase logo badge" />
 
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy logo badge" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch logo badge" />
