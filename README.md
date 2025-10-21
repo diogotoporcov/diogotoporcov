@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" alt="Dart logo badge" />
 
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5 logo badge" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3 logo badge" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css&logoColor=white" alt="CSS logo badge" />
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap logo badge" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter logo badge" />
   <img src="https://img.shields.io/badge/EJS-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black" alt="EJS logo badge" />
