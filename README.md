@@ -1,12 +1,17 @@
 <div align="center">
+  <h3><em>
+  My passion is using technology to create solutions that make an impact in my community.
+  </em></h3>
+</div>
+
+<div align="center">
   <h1>About Me:</h1>
 </div>
 
 <div align="justify">
   <p>
-  Systems Analysis and Development student focused on building efficient, scalable, and secure technological solutions.
-  Currently working on a clinical data analysis and manipulation project using machine learning to help reduce hospital mortality caused by sepsis.
-  Passionate about using technology to create solutions that make a real impact in my community.
+   Systems Analysis and Development student at the Federal Institute of Education, Science and Technology of São Paulo (IFSP), seeking an internship opportunity to apply and enhance my technical skills in real-world environments. 
+   Currently working on a project that applies artificial intelligence to predict sepsis and help reduce hospital mortality.
   </p>
 </div>
 
