@@ -10,7 +10,7 @@
 
 <div align="justify">
   <p>
-   Systems Analysis and Development student at the Federal Institute of Education, Science and Technology of São Paulo (IFSP), seeking an internship or ou trainee opportunity to apply and enhance my technical skills in real-world environments. 
+   Systems Analysis and Development student at the Federal Institute of Education, Science and Technology of São Paulo (IFSP), seeking an internship or trainee opportunity to apply and enhance my technical skills in real-world environments. 
    Currently working on a project that applies artificial intelligence to predict sepsis and help reduce hospital mortality.
   </p>
 </div>
