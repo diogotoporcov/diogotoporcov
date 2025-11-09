@@ -1,7 +1,5 @@
 <div align="center">
-  <h3><em>
-  My passion is using technology to create solutions that make an impact in my community.
-  </em></h3>
+  <h3><em>My passion is using technology to create solutions that make an impact in my community.</em></h3>
 </div>
 
 <div align="center">
