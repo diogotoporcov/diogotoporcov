@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white" alt="SQLAlchemy logo badge" />
   <img src="https://img.shields.io/badge/Sequelize-3B5998?style=flat&logo=sequelize&logoColor=white" alt="Sequelize logo badge" />
 
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter Notebook logo badge" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy logo badge" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch logo badge" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn logo badge" />
