@@ -8,8 +8,7 @@
 
 <div align="justify">
   <p>
-   Systems Analysis and Development student at the Federal Institute of Education, Science and Technology of São Paulo (IFSP), seeking an internship or trainee opportunity to apply and enhance my technical skills in real-world environments. 
-   Currently working on a project that applies artificial intelligence to predict sepsis and help reduce hospital mortality.
+   Systems Analysis and Development student at the Federal Institute of São Paulo (IFSP), seeking internship, trainee, or junior opportunities to apply and further develop my technical skills in real-world environments. I developed Finder v2, a Python API built with FastAPI for image database management, featuring a high-performance tool capable of identifying duplicate images within milliseconds. In November, I completed my undergraduate research project, where I developed a machine learning model to predict sepsis in hospitalized patients, serving as a decision-support tool to help healthcare professionals make more accurate clinical decisions and reduce hospital mortality associated with the condition
   </p>
 </div>
 
