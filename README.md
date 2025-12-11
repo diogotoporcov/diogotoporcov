@@ -73,12 +73,12 @@
 <div align="center">
   <h1>GitHub  Stats:</h1>
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=diogotoporcov&theme=vue-dark&hide_border=true"
+    src="https://nirzak-streak-stats.vercel.app/?user=diogotoporcov&theme=vue-dark&hide_border=true&card_width=450"
     alt="Contribution streak stats"
     height="160"
   />
   <img
-    src="https://github-readme-stats.diogotoporcov.com/api/top-langs/?username=diogotoporcov&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    src="https://github-readme-stats.diogotoporcov.com/api/top-langs/?username=diogotoporcov&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=350"
     alt="Top Langs"
     height="160"
   />
