@@ -78,7 +78,7 @@
     height="160"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogotoporcov&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    src="https://github-readme-stats.diogotoporcov.com/api/top-langs/?username=diogotoporcov&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
     alt="Top Langs"
     height="160"
   />
