@@ -8,7 +8,7 @@
 
 <div align="justify">
   <p>
-   Systems Analysis and Development student at the Federal Institute of São Paulo (IFSP), seeking internship, trainee, or junior opportunities to apply and further develop my technical skills in real-world environments. I developed Finder v2, a Python API built with FastAPI for image database management, featuring a high-performance tool capable of identifying duplicate images within milliseconds. In November, I completed my undergraduate research project, where I developed a machine learning model to predict sepsis in hospitalized patients, serving as a decision-support tool to help healthcare professionals make more accurate clinical decisions and reduce hospital mortality associated with the condition. 
+   Systems Analysis and Development student at the Federal Institute of São Paulo (IFSP). In November, I completed my undergraduate research project, where I developed a machine learning model to predict sepsis in hospitalized patients, serving as a decision-support tool to help healthcare professionals make more accurate clinical decisions and reduce hospital mortality associated with the condition. 
   </p>
 </div>
 
@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java logo badge" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript logo badge" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" alt="Dart logo badge" />
+
+  <img src="assets/BotCity-Badge.svg" alt="BotCity logo badge">  
 
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5 logo badge" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css&logoColor=white" alt="CSS logo badge" />
@@ -57,6 +59,7 @@
   <img src="https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat&logo=letsencrypt&logoColor=white" alt="Let's Encrypt logo badge" />
 
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions logo badge" />
+
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud logo badge" />
 
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white" alt="Cucumber logo badge" />
@@ -65,9 +68,6 @@
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="Pytest logo badge" />
 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman logo badge" />
-
-  <img src="https://img.shields.io/badge/CUDA-000000.svg?style=flat&logo=nVIDIA&logoColor=green" alt="CUDA logo badge" />
-  <img src="https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white" alt="NVIDIA logo badge" />
 </div>
 
 <div align="center">
