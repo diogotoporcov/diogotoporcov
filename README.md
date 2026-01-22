@@ -73,7 +73,7 @@
 <div align="center">
   <h1>GitHub  Stats:</h1>
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=diogotoporcov&theme=vue-dark&hide_border=true&card_width=450"
+    src="https://github-readme-streak-stats.diogotoporcov.com/?user=diogotoporcov&theme=vue-dark&hide_border=true&card_width=450"
     alt="Contribution streak stats"
     height="160"
   />
