@@ -8,7 +8,7 @@
 
 <div align="justify">
   <p>
-   Student of Systems Analysis and Development at the Federal Institute of São Paulo (IFSP) and Robotic Process Automation intern at MV3 Tecnologia, developing robots for digital process automation. In November, I carried out my Scientific Initiation project, in which I developed a machine learning model for the early diagnosis of sepsis in hospitalized patients, making interventions more precise and contributing to the reduction of hospital mortality associated with the condition. In this project, I developed a clinical data processing pipeline that enhanced the model’s predictive performance compared to the use of raw data, enabling hit rates of up to 75% when predicting sepsis up to 4 hours in advance, representing an improvement of 25%.
+   Student of Systems Analysis and Development at the Federal Institute of São Paulo (IFSP) and Robotic Process Automation intern at MV3 Tecnologia, developing robots for digital process automation. In November, I carried out my Scientific Initiation project, in which I developed a machine learning model for the early diagnosis of sepsis in hospitalized patients, making interventions more precise and contributing to the reduction of hospital mortality associated with the condition. In this project, I developed a clinical data processing pipeline that enhanced the model’s predictive performance, enabling hit rates of up to 75% when predicting sepsis up to 4 hours in advance, representing an improvement of 25% compared to the use of raw data.
   </p>
 </div>
 
