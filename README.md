@@ -8,7 +8,7 @@
 
 <div align="justify">
   <p>
-   Student of Systems Analysis and Development at the Federal Institute of São Paulo (IFSP) and Robotic Process Automation intern at MV3 Tecnologia, developing robots for digital process automation. In November, I carried out my Scientific Initiation project, in which I developed a machine learning model for the early diagnosis of sepsis in hospitalized patients, making interventions more precise and contributing to the reduction of hospital mortality associated with the condition. In this project, I developed a clinical data processing pipeline that enhanced the model’s predictive performance, enabling hit rates of up to 75% when predicting sepsis up to 4 hours in advance, representing an improvement of 25% compared to the use of raw data.
+   Systems Analysis and Development student at IFSP and an Automation Intern at MV3 Tecnologia, with experience in developing efficient solutions, data analysis, and studying the structure and operation of systems. My main strength lies in the ability to identify elegant, optimized, and objective approaches to problem-solving, always seeking reliable alternatives without adding unnecessary complexity. My experience combines backend development, data processing, and process automation, which allows me to analyze each scenario and apply the most appropriate strategy to develop solutions that increase productivity, reduce operational failures, and drastically shorten manual process times.
   </p>
 </div>
 
