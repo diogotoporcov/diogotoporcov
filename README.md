@@ -60,7 +60,6 @@
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logoColor=black" alt="CatBoost logo badge" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas logo badge" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy logo badge" />
-  <img src="https://img.shields.io/badge/Orange_Data_Mining-F37A1F?style=flat&logo=orange&logoColor=white" alt="Orange Data Mining logo badge" />
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter Notebook logo badge" />
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white" alt="Anaconda logo badge" />
 
