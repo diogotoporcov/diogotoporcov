@@ -8,13 +8,15 @@
 
 <div align="justify">
   <p>
-   Systems Analysis and Development student at IFSP and an Automation Intern at MV3 Tecnologia, with experience in developing efficient solutions, data analysis, and studying the structure and operation of systems. 
+    Systems Analyst at MV3 Tecnologia and graduate in Systems Analysis and Development from IFSP, with experience in software development, process automation, data analysis, and systems integration.
   </p>
+
   <p>
-   My main strength lies in the ability to identify elegant, optimized, and objective approaches to problem-solving, always seeking reliable alternatives without adding unnecessary complexity. 
+    My main strength lies in identifying elegant, optimized, and objective approaches to problem-solving, always seeking robust solutions without introducing unnecessary complexity. I analyze each scenario carefully to determine the most appropriate technical strategy, balancing simplicity, performance, reliability, and maintainability.
   </p>
+
   <p>
-   My experience combines backend development, data processing, and process automation, which allows me to analyze each scenario and apply the most appropriate strategy to develop solutions that increase productivity, reduce operational failures, and drastically shorten manual process times.
+    My experience combines Full Stack and backend development, data processing, RPA, and process automation, allowing me to work across different areas when building solutions that improve productivity, reduce operational failures, and simplify processes.
   </p>
 </div>
 
